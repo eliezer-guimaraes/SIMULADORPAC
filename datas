@@ -1,0 +1,207 @@
+189.45.208.1
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : DJUV1SAF21512
+   Primary Dns Suffix  . . . . . . . : fnis-br.com
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : fnis-br.com
+
+Ethernet adapter Ethernet 3:
+
+   Connection-specific DNS Suffix  . : fnis-br.com
+   Description . . . . . . . . . . . : Realtek PCIe GbE Family Controller #2
+   Physical Address. . . . . . . . . : A4-1F-72-FD-A8-CA
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv4 Address. . . . . . . . . . . : 10.111.186.61(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : domingo, 29 de setembro de 2024 05:25:37
+   Lease Expires . . . . . . . . . . : quarta-feira, 2 de outubro de 2024 05:25:37
+   Default Gateway . . . . . . . . . : 10.111.186.1
+   DHCP Server . . . . . . . . . . . : 10.111.191.12
+   DNS Servers . . . . . . . . . . . : 10.218.9.10
+                                       10.111.191.11
+                                       10.105.192.35
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Host Name:                 DJUV1SAF21512
+OS Name:                   Microsoft Windows 10 Enterprise
+OS Version:                10.0.19045 N/A Build 19045
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Member Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          user
+Registered Organization:   
+Product ID:                00329-00000-00003-AA343
+Original Install Date:     01/11/2023, 14:06:37
+System Boot Time:          29/09/2024, 05:25:06
+System Manufacturer:       Dell Inc.
+System Model:              OptiPlex 3011 AIO
+System Type:               X86-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: x64 Family 6 Model 58 Stepping 9 GenuineIntel ~3400 Mhz
+BIOS Version:              Dell Inc. A03, 10/09/2013
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              pt-br;Portuguese (Brazil)
+Time Zone:                 (UTC-03:00) Brasilia
+Total Physical Memory:     3.517 MB
+Available Physical Memory: 476 MB
+Virtual Memory: Max Size:  13.517 MB
+Virtual Memory: Available: 4.992 MB
+Virtual Memory: In Use:    8.525 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    fnis-br.com
+Logon Server:              \\SDCFPSJV03
+Hotfix(s):                 18 Hotfix(s) Installed.
+                           [01]: KB5042056
+                           [02]: KB5003791
+                           [03]: KB5015684
+                           [04]: KB5043064
+                           [05]: KB5011352
+                           [06]: KB5011651
+                           [07]: KB5031539
+                           [08]: KB5032392
+                           [09]: KB5032907
+                           [10]: KB5034224
+                           [11]: KB5036447
+                           [12]: KB5037018
+                           [13]: KB5037240
+                           [14]: KB5037995
+                           [15]: KB5039336
+                           [16]: KB5041579
+                           [17]: KB5043935
+                           [18]: KB5005699
+Network Card(s):           1 NIC(s) Installed.
+                           [01]: Realtek PCIe GbE Family Controller
+                                 Connection Name: Ethernet 3
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     10.111.191.12
+                                 IP address(es)
+                                 [01]: 10.111.186.61
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
+
+
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    10.111.186.61:49258    10.111.137.9:http      ESTABLISHED
+  TCP    10.111.186.61:49374    10.111.137.9:http      ESTABLISHED
+  TCP    10.111.186.61:49713    10.111.137.9:http      ESTABLISHED
+  TCP    10.111.186.61:49749    10.111.137.9:http      ESTABLISHED
+  TCP    10.111.186.61:49750    SDCFPSSP100:microsoft-ds  ESTABLISHED
+  TCP    10.111.186.61:49822    aplctxjv01:8080        ESTABLISHED
+  TCP    10.111.186.61:50250    10.111.137.9:http      ESTABLISHED
+  TCP    10.111.186.61:51099    10.111.137.9:http      TIME_WAIT
+  TCP    10.111.186.61:51100    10.111.137.9:http      TIME_WAIT
+  TCP    10.111.186.61:51144    10.111.137.9:http      ESTABLISHED
+  TCP    10.111.186.61:51145    10.111.137.8:http      TIME_WAIT
+  TCP    10.111.186.61:51146    52.239.177.132:https   TIME_WAIT
+  TCP    10.111.186.61:51150    10.111.137.9:http      TIME_WAIT
+  TCP    10.111.186.61:51156    10.111.137.9:http      TIME_WAIT
+  TCP    10.111.186.61:51158    10.111.137.9:http      TIME_WAIT
+  TCP    10.111.186.61:51159    10.111.137.9:http      TIME_WAIT
+  TCP    10.111.186.61:51160    10.111.137.9:http      TIME_WAIT
+  TCP    10.111.186.61:51161    10.111.137.9:http      TIME_WAIT
+  TCP    10.111.186.61:51162    10.111.137.9:http      TIME_WAIT
+  TCP    10.111.186.61:51163    10.111.137.9:http      TIME_WAIT
+  TCP    10.111.186.61:51164    SDCFPSJV03:epmap       TIME_WAIT
+  TCP    10.111.186.61:51165    SDCFPSJV03:49669       TIME_WAIT
+  TCP    10.111.186.61:51171    10.111.137.8:http      TIME_WAIT
+  TCP    10.111.186.61:51172    10.111.137.8:http      TIME_WAIT
+  TCP    10.111.186.61:51174    10.111.137.9:http      TIME_WAIT
+  TCP    10.111.186.61:51181    10.111.137.9:http      TIME_WAIT
+  TCP    10.111.186.61:51182    10.111.137.9:http      TIME_WAIT
+  TCP    10.111.186.61:51183    10.111.137.9:http      TIME_WAIT
+  TCP    10.111.186.61:51184    10.111.137.9:http      TIME_WAIT
+  TCP    10.111.186.61:51191    20.37.129.88:https     CLOSE_WAIT
+  TCP    10.111.186.61:51193    100.64.2.5:62124       ESTABLISHED
+  TCP    10.111.186.61:51194    10.111.137.9:http      TIME_WAIT
+  TCP    10.111.186.61:51198    10.111.137.9:http      ESTABLISHED
+  TCP    10.111.186.61:51199    10.111.137.9:http      ESTABLISHED
+  TCP    10.111.186.61:51205    10.111.137.9:http      TIME_WAIT
+  TCP    10.111.186.61:51206    SDCFPSSP100:epmap      TIME_WAIT
+  TCP    10.111.186.61:51207    SDCFPSSP100:49675      TIME_WAIT
+  TCP    10.111.186.61:51208    10.111.137.9:http      TIME_WAIT
+  TCP    10.111.186.61:51209    10.111.137.9:http      TIME_WAIT
+  TCP    10.111.186.61:51210    10.111.137.9:http      TIME_WAIT
+  TCP    10.111.186.61:51211    10.111.137.9:http      TIME_WAIT
+  TCP    10.111.186.61:51216    10.111.137.9:http      TIME_WAIT
+  TCP    10.111.186.61:51217    100.64.2.5:62124       ESTABLISHED
+  TCP    10.111.186.61:51219    10.111.137.9:http      TIME_WAIT
+  TCP    10.111.186.61:51221    10.111.137.8:http      ESTABLISHED
+  TCP    10.111.186.61:51226    10.111.137.9:http      TIME_WAIT
+  TCP    10.111.186.61:51227    10.111.137.9:http      TIME_WAIT
+  TCP    10.111.186.61:51228    10.111.137.9:http      TIME_WAIT
+  TCP    10.111.186.61:51229    10.111.137.9:http      TIME_WAIT
+  TCP    10.111.186.61:51230    10.111.137.9:http      TIME_WAIT
+  TCP    10.111.186.61:51838    pac-fis:https          ESTABLISHED
+  TCP    10.111.186.61:53397    10.111.137.9:http      ESTABLISHED
+  TCP    10.111.186.61:60603    10.111.137.9:http      ESTABLISHED
+  TCP    10.111.186.61:62601    10.111.137.9:http      ESTABLISHED
+  TCP    10.111.186.61:63388    10.111.137.9:http      ESTABLISHED
+  TCP    10.111.186.61:63895    sharesp02:microsoft-ds  ESTABLISHED
+  TCP    10.111.186.61:64681    10.111.137.9:http      ESTABLISHED
+  TCP    127.0.0.1:49659        MVS1:55552             ESTABLISHED
+  TCP    127.0.0.1:49826        MVS1:55552             ESTABLISHED
+  TCP    127.0.0.1:50655        MVS1:50656             ESTABLISHED
+  TCP    127.0.0.1:50656        MVS1:50655             ESTABLISHED
+  TCP    127.0.0.1:50657        MVS1:50658             ESTABLISHED
+  TCP    127.0.0.1:50658        MVS1:50657             ESTABLISHED
+  TCP    127.0.0.1:50797        MVS1:50798             ESTABLISHED
+  TCP    127.0.0.1:50798        MVS1:50797             ESTABLISHED
+  TCP    127.0.0.1:50801        MVS1:50802             ESTABLISHED
+  TCP    127.0.0.1:50802        MVS1:50801             ESTABLISHED
+  TCP    127.0.0.1:55296        MVS1:51143             TIME_WAIT
+  TCP    127.0.0.1:55296        MVS1:51149             TIME_WAIT
+  TCP    127.0.0.1:55296        MVS1:51151             TIME_WAIT
+  TCP    127.0.0.1:55296        MVS1:51152             TIME_WAIT
+  TCP    127.0.0.1:55296        MVS1:51153             TIME_WAIT
+  TCP    127.0.0.1:55296        MVS1:51154             TIME_WAIT
+  TCP    127.0.0.1:55296        MVS1:51155             TIME_WAIT
+  TCP    127.0.0.1:55296        MVS1:51157             TIME_WAIT
+  TCP    127.0.0.1:55296        MVS1:51166             TIME_WAIT
+  TCP    127.0.0.1:55296        MVS1:51167             TIME_WAIT
+  TCP    127.0.0.1:55296        MVS1:51168             TIME_WAIT
+  TCP    127.0.0.1:55296        MVS1:51170             TIME_WAIT
+  TCP    127.0.0.1:55296        MVS1:51175             TIME_WAIT
+  TCP    127.0.0.1:55296        MVS1:51176             TIME_WAIT
+  TCP    127.0.0.1:55296        MVS1:51177             TIME_WAIT
+  TCP    127.0.0.1:55296        MVS1:51178             TIME_WAIT
+  TCP    127.0.0.1:55296        MVS1:51179             TIME_WAIT
+  TCP    127.0.0.1:55296        MVS1:51187             TIME_WAIT
+  TCP    127.0.0.1:55296        MVS1:51190             TIME_WAIT
+  TCP    127.0.0.1:55296        MVS1:51192             TIME_WAIT
+  TCP    127.0.0.1:55296        MVS1:51195             TIME_WAIT
+  TCP    127.0.0.1:55296        MVS1:51196             TIME_WAIT
+  TCP    127.0.0.1:55296        MVS1:51201             TIME_WAIT
+  TCP    127.0.0.1:55296        MVS1:51202             TIME_WAIT
+  TCP    127.0.0.1:55296        MVS1:51203             TIME_WAIT
+  TCP    127.0.0.1:55296        MVS1:51204             TIME_WAIT
+  TCP    127.0.0.1:55296        MVS1:51212             TIME_WAIT
+  TCP    127.0.0.1:55296        MVS1:51213             TIME_WAIT
+  TCP    127.0.0.1:55296        MVS1:51214             TIME_WAIT
+  TCP    127.0.0.1:55296        MVS1:51215             TIME_WAIT
+  TCP    127.0.0.1:55296        MVS1:51218             TIME_WAIT
+  TCP    127.0.0.1:55296        MVS1:51220             TIME_WAIT
+  TCP    127.0.0.1:55296        MVS1:51222             TIME_WAIT
+  TCP    127.0.0.1:55296        MVS1:51223             TIME_WAIT
+  TCP    127.0.0.1:55296        MVS1:51224             TIME_WAIT
+  TCP    127.0.0.1:55296        MVS1:51231             TIME_WAIT
+  TCP    127.0.0.1:55296        MVS1:51232             TIME_WAIT
+  TCP    127.0.0.1:55296        MVS1:51233             TIME_WAIT
+  TCP    127.0.0.1:55296        MVS1:51234             TIME_WAIT
+  TCP    127.0.0.1:55552        MVS1:49659             ESTABLISHED
+  TCP    127.0.0.1:55552        MVS1:49826             ESTABLISHED
+
+
+
